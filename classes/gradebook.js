@@ -1,6 +1,6 @@
 class GradeBook {
   constructor(gradeList) {
-    this.gradeList = gradeList;
+    this.gradeList = gradeList;   // array
   }
 
   getAverage(bonus = 0) {
